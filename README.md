@@ -8,7 +8,8 @@ I am currently pursuing a software engineering degree at SMU, with an estimated 
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [tankaixuan24@gmail.com](mailto:tankaixuan24@gmail.com)
-* 🚀  I'm currently working on [test](http://test.com)
+
+ [//]: # * 🚀  I'm currently working on [test](http://test.com)
 
 ### Skills
 
