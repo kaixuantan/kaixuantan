@@ -4,7 +4,7 @@ Hi! 👋 My name is Kai Xuan.
 Aspiring Software Engineer
 --------------------------
 
-I am currently pursuing a software engineering degree at SMU, with an estimated graduation date in May 2025. I am interested in AI and cybersecurity.
+I am currently pursuing a software engineering degree at SMU, with an estimated graduation date in May 2026. I am interested in AI and cybersecurity.
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [tankaixuan24@gmail.com](mailto:tankaixuan24@gmail.com)
