@@ -4,7 +4,7 @@ Hi! 👋 My name is Kai Xuan.
 Aspiring Software Engineer
 --------------------------
 
-Y3 software engineering undergraduate at Singapore Management University.
+Penultimate software engineering undergraduate at Singapore Management University.
 
 * 🌍  I'm based in Singapore
 * ✉️  Contact me at [tankaixuan24@gmail.com](mailto:tankaixuan24@gmail.com)
