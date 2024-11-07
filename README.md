@@ -11,13 +11,6 @@ Penultimate software engineering undergraduate at Singapore Management Universit
 * 🧠  I’m currently learning **React and Golang**
 
 ### Projects
-<!-- FoodCatch -->
-<p align="left">
-  <a href="https://wad-2.vercel.app/"  target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/>
-      Food marketplace app
-  </a>
-</p>
 
 <i>See pinned repos for other projects</i>
 
