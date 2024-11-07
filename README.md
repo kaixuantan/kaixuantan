@@ -8,7 +8,6 @@ Penultimate software engineering undergraduate at Singapore Management Universit
 
 * 🌍  I'm based in Singapore
 * ✉️  Contact me at [tankaixuan24@gmail.com](mailto:tankaixuan24@gmail.com)
-* 🧠  I’m currently learning **React and Golang**
 
 ### Projects
 
