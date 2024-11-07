@@ -11,7 +11,7 @@ Penultimate software engineering undergraduate at Singapore Management Universit
 
 ### Projects
 
-<i>See pinned repos for other projects</i>
+<i>See LinkedIn projects section</i>
 
 ### Languages and Tools
 <p align="left">
